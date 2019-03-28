@@ -1,0 +1,15 @@
+G50012678 *4 -switch
+PA020045 * 4 - ignitor switch
+PB010036 - oven thermostat
+PA020015 - char grill switch
+PA010030 - char grill valve
+PA010034 *3 - ignitor knob
+PB010099 * 2 - oven knob
+
+PE050016 * 2 - oven light switch
+PA020041 * 2 spark module
+
+
+
+customer's price - 2023$
+out price - 1356$
